@@ -15,8 +15,7 @@ Email: yuantao at link dot cuhk dot edu dot hk
 
 Selected Papers
 ======
-Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization, 2025. [[arxiv](https://arxiv.org/abs/2502.16607)]
-Yuan Tao, Erick Delage, Huifu Xu. 
+Yuan Tao, Erick Delage, Huifu Xu, Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization, 2025. [[arxiv](https://arxiv.org/abs/2502.16607)]
+ 
 
-Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces, 2024. [[arxiv](https://arxiv.org/abs/2405.19721)]
-Yuan Tao, Huifu Xu.
+Yuan Tao, Huifu Xu, Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces, 2024. [[arxiv](https://arxiv.org/abs/2405.19721)]
