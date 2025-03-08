@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second-year Ph.D. student in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) supervised by [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/). Previously, I obtained my Master degree in Management Science & Engineering (2020-2023) at [Nanjing University](https://sme.nju.edu.cn/englishversion/main.htm) supervised by Prof. Caihua Chen, and a bachelor's degree in Statistics (2016-2020) at [Nanjing University](https://math.nju.edu.cn/en/index.html).
+Welcome! I am a second-year Ph.D. student in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) supervised by [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/). Previously, I obtained my Master degree in Management Science & Engineering (2020-2023) at [Nanjing University](https://sme.nju.edu.cn/englishversion/main.htm) supervised by [Prof. Caihua Chen](https://scholar.google.com.hk/citations?user=I6ewvyIAAAAJ&hl=zh-TW), and a bachelor's degree in Statistics (2016-2020) at [Nanjing University](https://math.nju.edu.cn/en/index.html).
 
 My research interest lies in operations research, including stochastic optimization and game theory.
 
