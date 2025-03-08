@@ -18,3 +18,4 @@ Selected Papers
 1. Yuan Tao, Erick Delage, Huifu Xu, [Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization](https://arxiv.org/abs/2502.16607), 2025.
  
 1. Yuan Tao, Huifu Xu, [Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces](https://arxiv.org/abs/2405.19721), 2024. To appear in *SIAM Journal on Optimization*.
+
