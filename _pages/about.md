@@ -11,3 +11,4 @@ Welcome! I am a second-year Ph.D. student in the [Department of Systems Engineer
 
 My research interest lies in operations research including game theory and data-driven optimization.
 
+Email: yuantao at link dot cuhk dot edu dot hk
