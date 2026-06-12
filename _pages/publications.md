@@ -6,7 +6,7 @@ author_profile: true
 
 ## Preprints
 
-- Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [arXiv](https://arxiv.org/abs/2601.16581)  
+- Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [[arXiv]](https://arxiv.org/abs/2601.16581)  
   **Yuan Tao**, Huifu Xu.  
   arXiv preprint arXiv:2601.16581, 2026.
 
