@@ -20,6 +20,6 @@ author_profile: true
   **Yuan Tao**, Huifu Xu.  
   *SIAM Journal on Optimization*, 2025.
 
-- Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming [[link]](https://link.springer.com/article/10.1007/s10898-025-01525-1)
+- Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming [[link]](https://link.springer.com/article/10.1007/s10898-025-01525-1)  
   **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang.  
   *Journal of Global Optimization*, 2025.
