@@ -12,7 +12,7 @@ Welcome! I am a third-year Ph.D. student in the [Department of Systems Engineeri
 Email: yuantao at link dot cuhk dot edu dot hk
 
 
-## Research Interests
+# Research Interests
 
 My research interests lie in operations research and optimization, particularly in decision-making under uncertainty and equilibrium problems with incomplete information.
 
