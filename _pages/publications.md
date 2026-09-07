@@ -6,13 +6,14 @@ author_profile: true
 
 ## Preprints
 
+- Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees
+  **Yuan Tao**, Huifu Xu.  
+
 - Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [[arXiv]](https://arxiv.org/pdf/2601.16581)  
   **Yuan Tao**, Huifu Xu.  
-  preprint, 2026.
 
 - Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization [[arXiv]](https://arxiv.org/pdf/2502.16607)  
-  **Yuan Tao**, Erick Delage, Huifu Xu.  
-  preprint, 2025.
+  **Yuan Tao**, Erick Delage, Huifu Xu.
 
 ## Articles
 
