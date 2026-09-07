@@ -29,11 +29,11 @@ My research interests lie in operations research and optimization, particularly 
 
 1. Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [[arXiv]](https://arxiv.org/pdf/2601.16581)  
    **Yuan Tao**, Huifu Xu.  
-   Under review, 2026.
+   Submitted, 2026.
 
 1. Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization [[arXiv]](https://arxiv.org/pdf/2502.16607)  
    **Yuan Tao**, Erick Delage, Huifu Xu.  
-   Under review, 2025.
+   Submitted, 2025.
 
 
 **Articles**
