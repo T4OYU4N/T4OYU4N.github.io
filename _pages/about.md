@@ -25,7 +25,7 @@ My research interests lie in operations research and optimization, particularly 
 
 1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees  
    **Yuan Tao**, Huifu Xu.  
-   To be submitted, 2026.
+   Submitted, 2026.
 
 1. Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [[arXiv]](https://arxiv.org/pdf/2601.16581)  
    **Yuan Tao**, Huifu Xu.  
