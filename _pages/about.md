@@ -14,7 +14,8 @@ Email: yuantao at link dot cuhk dot edu dot hk
 
 # Research Interests
 
-My research interests lie in operations research and optimization, particularly in decision-making under uncertainty and equilibrium problems with incomplete information.
+- Decision-making under uncertainty
+- Equilibrium problems with incomplete information
 
 
 <a id="publications"></a>
@@ -23,28 +24,21 @@ My research interests lie in operations research and optimization, particularly 
 
 **Preprints**
 
-1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees [[arXiv]](https://arxiv.org/abs/2609.08274)  
-   **Yuan Tao**, Huifu Xu.  
-   Submitted, 2026.
-
-1. Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization [[arXiv]](https://arxiv.org/abs/2601.16581)  
-   **Yuan Tao**, Huifu Xu.  
-   Submitted, 2026.
-
-1. Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization [[arXiv]](https://arxiv.org/abs/2502.16607)  
-   **Yuan Tao**, Erick Delage, Huifu Xu.  
-   Submitted, 2025.
+1. [Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees](https://arxiv.org/abs/2609.08274), 2026.    
+   **Yuan Tao**, Huifu Xu.
+1. [Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization](https://arxiv.org/abs/2601.16581), 2026.    
+   **Yuan Tao**, Huifu Xu.
+1. [Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization](https://arxiv.org/abs/2502.16607), 2025.    
+   **Yuan Tao**, Erick Delage, Huifu Xu. 
 
 
 **Articles**
 
-1. Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces [[link]](https://epubs.siam.org/doi/abs/10.1137/24M1653859)  
+1. [Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces](https://epubs.siam.org/doi/abs/10.1137/24M1653859), *SIAM Journal on Optimization*, 2025.    
    **Yuan Tao**, Huifu Xu.  
-   *SIAM Journal on Optimization*, 2025.
-
-1. Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming [[link]](https://link.springer.com/article/10.1007/s10898-025-01525-1)  
+1. [Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming](https://link.springer.com/article/10.1007/s10898-025-01525-1), *Journal of Global Optimization*, 2025.   
    **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang.  
-   *Journal of Global Optimization*, 2025.
+   
 
 
 <a id="teaching"></a>
@@ -52,15 +46,10 @@ My research interests lie in operations research and optimization, particularly 
 # Teaching
 
 **Teaching Assistant**
-
 - **FTEC2101 Optimization Method**, Instructor: Hoi To Wai. Spring 2026.
-
 - **SEEM5740 Engineering Economics**, Instructor: Huifu Xu. Spring 2025, Spring 2026.
-
 - **ENGG2760 Probability for Engineers**, Instructor: Huifu Xu. Fall 2023, Fall 2024, Fall 2025.
-
 - **SEEM3500 Quality Control and Management**, Instructor: Huifu Xu. Fall 2024.
-
 - **SEEM3650 Fundamentals in Decision and Data Analytics**, Instructor: Viet Anh Nguyen. Spring 2024.
 
 ---
