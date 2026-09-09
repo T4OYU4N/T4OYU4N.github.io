@@ -23,7 +23,7 @@ My research interests lie in operations research and optimization, particularly 
 
 **Preprints**
 
-1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees  
+1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees [[arXiv]](https://arxiv.org/abs/2609.08274)  
    **Yuan Tao**, Huifu Xu.  
    Submitted, 2026.
 
@@ -62,3 +62,7 @@ My research interests lie in operations research and optimization, particularly 
 - **SEEM3500 Quality Control and Management**, Instructor: Huifu Xu. Fall 2024.
 
 - **SEEM3650 Fundamentals in Decision and Data Analytics**, Instructor: Viet Anh Nguyen. Spring 2024.
+
+---
+
+*Last updated: September, 2026.*
