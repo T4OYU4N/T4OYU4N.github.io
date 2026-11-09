@@ -9,6 +9,8 @@ Previously, I received my M.S. in Management Science and Engineering and B.S. in
 
 Email: {{ site.author.email_display }}
 
+<h2 id="Research Interests">Research Interests</h2>
+
 ## Research Interests
 
 - Decision-making under uncertainty
@@ -16,7 +18,7 @@ Email: {{ site.author.email_display }}
 
 <a id="research"></a>
 
-<h2 id="publications">Research</h2>
+<h2 id="publications">Publications</h2>
 
 ### Preprints
 
