@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Redirecting — {{ site.title | escape }}</title>
+    <link rel="canonical" href="{{ '/' | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url | escape }}">
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ page.redirect_to | relative_url | escape }}">{{ site.title | escape }}'s homepage</a>.</p>
+  </body>
+</html>
+
