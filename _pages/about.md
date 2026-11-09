@@ -11,8 +11,6 @@ Email: {{ site.author.email_display }}
 
 <h2 id="Research Interests">Research Interests</h2>
 
-## Research Interests
-
 - Decision-making under uncertainty
 - Equilibrium problems with incomplete information
 
