@@ -11,8 +11,13 @@ Email: {{ site.author.email_display }}
 
 <h2 id="Research Interests">Research Interests</h2>
 
-- Decision-making under uncertainty
-- Equilibrium problems with incomplete information
+My research centers on **decision-making under uncertainty**: modeling, theoretical analysis, and data-driven solution methods with statistical guarantees.
+
+For problems with a single decision maker, I study **stochastic optimization with contextual information**, including optimality conditions and the convergence behavior of data-driven approximation schemes such as sample average approximation and kernelization.
+
+For problems with multiple decision makers, I use **Bayesian games** to model strategic behavior under incomplete information, studying the existence and uniqueness of equilibria with continuous type and action spaces, together with the convergence and finite-sample guarantees of equilibria learned from data.
+
+A key point across both lines is how to capture the **multiple forms of uncertainty** (aleatoric versus epistemic, contextual versus problem-data) along with the decision makers' **risk preferences**, and how these affect optimal decisions and equilibrium outcomes.
 
 <a id="research"></a>
 
@@ -20,19 +25,22 @@ Email: {{ site.author.email_display }}
 
 ### Preprints
 
-1. [Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees](https://arxiv.org/abs/2609.08274), 2026.  
+1. [Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees](https://arxiv.org/abs/2609.08274)  
    **Yuan Tao**, Huifu Xu.
-1. [Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization](https://arxiv.org/abs/2601.16581), 2026.  
-   **Yuan Tao**, Huifu Xu. [PDF](https://arxiv.org/pdf/2601.16581).
-1. [Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization](https://arxiv.org/abs/2502.16607), 2025.  
-   **Yuan Tao**, Erick Delage, Huifu Xu. [PDF](https://arxiv.org/pdf/2502.16607).
+1. [Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization](https://arxiv.org/abs/2601.16581)  
+   **Yuan Tao**, Huifu Xu.
+1. [Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization](https://arxiv.org/abs/2502.16607)  
+   **Yuan Tao**, Erick Delage, Huifu Xu.
 
 ### Articles
 
-1. [Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces](https://epubs.siam.org/doi/abs/10.1137/24M1653859), *SIAM Journal on Optimization*, 2025.  
-   **Yuan Tao**, Huifu Xu. [arXiv](https://arxiv.org/pdf/2405.19721).
-1. [Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming](https://link.springer.com/article/10.1007/s10898-025-01525-1), *Journal of Global Optimization*, 2025.  
-   **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang.
+1. [Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces](https://epubs.siam.org/doi/abs/10.1137/24M1653859)  
+   **Yuan Tao**, Huifu Xu  
+   *SIAM Journal on Optimization*, 35(2), 789-817.
+   
+1. [Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming](https://link.springer.com/article/10.1007/s10898-025-01525-1)  
+   **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang  
+   *Journal of Global Optimization*, 2026, 95(3): 757-778.
 
 <h2 id="teaching">Teaching</h2>
 
