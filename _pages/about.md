@@ -25,22 +25,25 @@ A key point across both lines is how to capture the **multiple forms of uncertai
 
 ### Preprints
 
-1. [Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees](https://arxiv.org/abs/2609.08274)  
-   **Yuan Tao**, Huifu Xu.
-1. [Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization](https://arxiv.org/abs/2601.16581)  
-   **Yuan Tao**, Huifu Xu.
-1. [Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization](https://arxiv.org/abs/2502.16607)  
-   **Yuan Tao**, Erick Delage, Huifu Xu.
+1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees  
+   **Yuan Tao**, Huifu Xu  
+   *Preprint*, 2026. [[arXiv]](https://arxiv.org/abs/2609.08274)
+1. Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization  
+   **Yuan Tao**, Huifu Xu  
+   *Preprint*, 2026. [[arXiv]](https://arxiv.org/abs/2601.16581)
+1. Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization  
+   **Yuan Tao**, Erick Delage, Huifu Xu  
+   *Preprint*, 2025. [[arXiv]](https://arxiv.org/abs/2502.16607)
 
 ### Articles
 
-1. [Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces](https://epubs.siam.org/doi/abs/10.1137/24M1653859)  
+1. Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces  
    **Yuan Tao**, Huifu Xu  
-   *SIAM Journal on Optimization*, 35(2), 789-817.
+   *SIAM Journal on Optimization*, 35(2), 789-817. [[SIOPT]](https://epubs.siam.org/doi/abs/10.1137/24M1653859) [[arXiv]](https://arxiv.org/abs/2405.19721)
    
-1. [Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming](https://link.springer.com/article/10.1007/s10898-025-01525-1)  
+1. Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming  
    **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang  
-   *Journal of Global Optimization*, 2026, 95(3): 757-778.
+   *Journal of Global Optimization*, 2026, 95(3): 757-778. [[JGO]](https://link.springer.com/article/10.1007/s10898-025-01525-1)
 
 <h2 id="teaching">Teaching</h2>
 
