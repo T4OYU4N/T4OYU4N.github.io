@@ -13,9 +13,9 @@ Email: {{ site.author.email_display }}
 
 My research centers on **decision-making under uncertainty**: modeling, theoretical analysis, and data-driven solution methods with statistical guarantees.
 
-For problems with a single decision maker, I study **stochastic optimization with contextual information**, including optimality conditions and the convergence behavior of data-driven approximation schemes such as sample average approximation and kernelization.
+For problems with a single decision maker, I study **stochastic optimization with contextual information**, including optimality conditions and the data-driven approximation schemes such as sample average approximation and kernelization.
 
-For problems with multiple decision makers, I use **Bayesian games** to model strategic behavior under incomplete information, studying the existence and uniqueness of equilibria with continuous type and action spaces, together with the convergence and finite-sample guarantees of equilibria learned from data.
+For problems with multiple decision makers, I use **Bayesian games** to model strategic behavior under incomplete information, studying the existence and uniqueness of equilibria with continuous type and action spaces and exploring how equilibria can be learned from data.
 
 A key point across both lines is how to capture the **multiple forms of uncertainty** (aleatoric versus epistemic, contextual versus problem-data) along with the decision makers' **risk preferences**, and how these affect optimal decisions and equilibrium outcomes.
 
