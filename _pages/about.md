@@ -28,9 +28,11 @@ A key point across both lines is how to capture the **multiple forms of uncertai
 1. Risk-Averse Bayesian Games with an Unknown Type Distribution: Bayesian Learning, Equilibrium Analysis, and Finite-Sample Guarantees  
    **Yuan Tao**, Huifu Xu  
    *Preprint*, 2026. [[arXiv]](https://arxiv.org/abs/2609.08274)
+   
 1. Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization  
    **Yuan Tao**, Huifu Xu  
    *Preprint*, 2026. [[arXiv]](https://arxiv.org/abs/2601.16581)
+   
 1. Risk-averse Decision Making with Contextual Information: Model, Sample Average Approximation, and Kernelization  
    **Yuan Tao**, Erick Delage, Huifu Xu  
    *Preprint*, 2025. [[arXiv]](https://arxiv.org/abs/2502.16607)
@@ -39,7 +41,7 @@ A key point across both lines is how to capture the **multiple forms of uncertai
 
 1. Generalized Bayesian Nash Equilibrium with Continuous Type and Action Spaces  
    **Yuan Tao**, Huifu Xu  
-   *SIAM Journal on Optimization*, 35(2), 789-817. [[SIOPT]](https://epubs.siam.org/doi/abs/10.1137/24M1653859) [[arXiv]](https://arxiv.org/abs/2405.19721)
+   *SIAM Journal on Optimization*, 2025, 35(2), 789-817. [[SIOPT]](https://epubs.siam.org/doi/abs/10.1137/24M1653859) [[arXiv]](https://arxiv.org/abs/2405.19721)
    
 1. Strong Group Fair Classification via Optimal Transport and Mixed-Integer Linear Programming  
    **Yuan Tao**, Caihua Chen, Suhong Jiang, Qingyang Wang  
